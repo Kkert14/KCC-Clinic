@@ -103,9 +103,9 @@ body.dark-mode .main-sidebar .nav-link:hover {
      </li>
 
       <li class="nav-item">
-      <a href="<?= base_url('students') ?>" class="nav-link <?= is_active(1, 'students') ?>">
+      <a href="<?= base_url('records') ?>" class="nav-link <?= is_active(1, 'records') ?>">
         <i class="nav-icon fas fa-address-card"></i>
-        <p>Students</p>
+        <p>Treatment Records</p>
       </a>
       </li>
   </ul>
