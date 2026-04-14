@@ -142,7 +142,6 @@
 <div class="toasts-top-right fixed" style="position: fixed; top: 1rem; right: 1rem; z-index: 9999;"></div>
 <?= $this->endSection() ?>
 
-
 <?= $this->section('scripts') ?>
 <script> const baseUrl = "<?= base_url() ?>"; </script>
 <script src="<?= base_url('js/students/students.js') ?>"></script>
